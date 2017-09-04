@@ -2105,20 +2105,53 @@ body {
 .cid-qubZdxabzN .mbr-section-subtitle {
   font-style: italic;
 }
-.cid-quclKIWO8u {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+.cid-quiL5qiMAC {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
 }
-.cid-quclKIWO8u .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
+.cid-quiL5qiMAC .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
 }
-.cid-quclKIWO8u .social-list a:focus {
-  text-decoration: none;
+.cid-quiL5qiMAC .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
 }
-.cid-quclKIWO8u H2 {
-  color: #150852;
+.cid-quiL5qiMAC .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-quiL5qiMAC .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-quiL5qiMAC .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-quiL5qiMAC .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-quiL5qiMAC .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-quiL5qiMAC .btn-social {
+  border: none !important;
+}
+.cid-quiL5qiMAC [class^="socicon-"]:before,
+.cid-quiL5qiMAC [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-quiL5qiMAC .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-quiL5qiMAC .mbr-section-title {
+  color: #ffffff;
 }
 .cid-qucn7obHKq {
   padding-top: 15px;
