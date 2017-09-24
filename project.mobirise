@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-03_0851",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 81,
+    "uniqCompNum": 96,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -1322,7 +1322,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Blog",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
